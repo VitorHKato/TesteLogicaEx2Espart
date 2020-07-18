@@ -1,0 +1,1 @@
+# TesteLogicaEx2Espart
